@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(235, 225, 205);
+    /* rgb(250, 245, 210); */
+    /* rgb(225, 225, 210); */
+    /* background-color: blueviolet; */
+    /* background-color: yellow; */
+
+    font-size: 20px;
+    font-family: Helvetica;
+
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h1 {
+    text-align: center;
+}
+
+/* {box-sizing:border-box;
+    margin:0;
+    padding:0
+}
+
