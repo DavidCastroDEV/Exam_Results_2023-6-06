@@ -9,13 +9,15 @@ body {
     font-family: Helvetica;
 
     margin-left: 5%;
-    margin-right: 5%;
-}
+    margin-right: 5%;}
 
 h1 {
-    text-align: center;
-}
+    text-align: center;}
 
+/* p {
+    font-weight:bold;} */
+
+    
 /* {box-sizing:border-box;
     margin:0;
     padding:0
