@@ -11,15 +11,16 @@ body {
     margin-left: 5%;
     margin-right: 5%;}
 
-h1 {
-    text-align: center;}
-
-/* p {
-    font-weight:bold;} */
-
+h1 {text-align: center;
+    margin-top: 80px; 
+    margin-bottom: 100px }
     
-/* {box-sizing:border-box;
+*  {box-sizing:border-box;
     margin:0;
-    padding:0
-}
+    padding:0}
+    
+/* h3 {font-weight: lighter;
+    text-decoration:underline} */
+
+/* p {font-weight:bold;} */
 
