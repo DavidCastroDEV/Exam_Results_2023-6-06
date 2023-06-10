@@ -1,3 +1,4 @@
+
 body {
     background-color: rgb(235, 225, 205);
     /* rgb(250, 245, 210); */
@@ -13,7 +14,18 @@ body {
 
 h1 {text-align: center;
     margin-top: 80px; 
-    margin-bottom: 100px }
+    margin-bottom: 90px }
+
+h2 {font-weight:bolder;
+    margin-bottom: 8px;}
+
+.bold {
+    font-size: 26px;
+    font-weight: bolder;
+    margin-bottom: 25px; }
+
+.container {
+    text-align: center; }
     
 *  {box-sizing:border-box;
     margin:0;
@@ -24,3 +36,30 @@ h1 {text-align: center;
 
 /* p {font-weight:bold;} */
 
+/* -------------------------------------------- */
+
+/* body {
+    background-color: rgb(235, 225, 205); */
+    /* rgb(250, 245, 210); */
+    /* rgb(225, 225, 210); */
+    /* background-color: blueviolet; */
+    /* background-color: yellow; */
+
+    /* font-size: 20px;
+    font-family: Helvetica;
+
+    margin-left: 5%;
+    margin-right: 5%;}
+
+h1 {text-align: center;
+    margin-top: 80px; 
+    margin-bottom: 100px }
+    
+*  {box-sizing:border-box;
+    margin:0;
+    padding:0} */
+    
+/* h3 {font-weight: lighter;
+    text-decoration:underline} */
+
+/* p {font-weight:bold;} */
